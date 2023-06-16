@@ -1,0 +1,14 @@
+*-- Shaft Design -- *
+
+The following input parameters were selected: 
+Axial force = 25 N.
+Shaft length = 10 mm.
+There will be 50 kg of total weight hung at the end of the beam.
+ 
+The following design outputs were found after the analysis and optimization steps were performed: 
+Optimized shaft diameter = 13.46 (mm).
+ 
+The following assumptions were made for the beam design calculations: 
+The shaft is made of 1100-0 Aluminm alloy.
+There is no torque loading on the shaft.
+ 
